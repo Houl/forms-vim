@@ -10,3 +10,6 @@ This is unmodified work of Hari Krishna Dara, Oct 2006 (one of the first scripts
 Demo:
 
     :call forms#demo()
+
+See also:
+* [https://github.com/tomtom/vimform_vim](https://github.com/tomtom/vimform_vim).
