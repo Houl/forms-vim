@@ -3,7 +3,7 @@ This is unmodified work of Hari Krishna Dara, Oct 2006 (one of the first scripts
 
 Announcement: [https://www.mail-archive.com/vim@vim.org/msg06767.html](https://www.mail-archive.com/vim@vim.org/msg06767.html).
 
-Location (now dead): [http://haridara.googlepages.com/forms.vim](http://haridara.googlepages.com/forms.vim).
+Location: [http://haridara.googlepages.com/forms.vim](http://haridara.googlepages.com/forms.vim).
 
 Demo:
 
